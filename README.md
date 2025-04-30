@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hey, I'm AIbySoMe
 
-<!--
-**aibysome/aibysome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a freelance developer with a passion for building useful tools using AI, web technologies, and automation.
 
-Here are some ideas to get you started:
+💼 **Specialties**:
+- Web Development (Laravel, PHP, JavaScript, React)
+- AI/ML (PyTorch, TensorFlow, Data Analysis)
+- Automation & Optimization Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Tools I Use**:
+Python, Laravel, C++, Docker, Git, React, MySQL, OpenCV
+
+📬 Want to work together? Reach out via [LaborX Profile](https://laborx.com/customers/users/id373337?ref=373337) or email me at [aibysome.dev@gmail.com]
+
+---
